@@ -22,3 +22,29 @@
     text-decoration: none;
   
 }
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;}
+.card-footer {
+    padding: var(--bs-card-cap-padding-y) var(--bs-card-cap-padding-x);
+    color: var(--bs-card-cap-color);
+    background-color: white;
+    border-top: none;}
+   .card-img-top{
+    padding-top: 70px;
+    padding-right: 70px;
+    padding-bottom: 70px;
+    padding-left: 70px;
+   }
+   .card-img-bottom{
+    padding-top: 70px;
+    padding-right: 70px;
+    padding-bottom: 70px;
+    padding-left: 70px;
+   }
+.card-img{
+    padding-top: 70px;
+    padding-right: 70px;
+    padding-bottom: 70px;
+    padding-left: 70px;
+}
